@@ -1,5 +1,7 @@
 # docker-delayed-start-mysql
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/tkuchiki/delayed-mysql.svg?style=for-the-badge)](https://hub.docker.com/r/tkuchiki/delayed-mysql/)
+
 delayed start mysql container for Docker
 
 ```console
